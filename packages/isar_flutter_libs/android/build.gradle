@@ -25,7 +25,7 @@ android {
     // if (project.android.hasProperty("namespace")) {
     //     namespace 'dev.isar.isar_flutter_libs'
     // }
-     namespace "com.isar.isar_flutter_libs"
+    namespace "com.isar.isar_flutter_libs"
     compileSdkVersion 33
 
     defaultConfig {
